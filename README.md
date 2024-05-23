@@ -9,3 +9,4 @@ The following table for reference purposes ONLY.
 | APPLICATION        | VERSION | FRAMEWORK | UUID                                 |
 | ------------------ | ------- | --------- | ------------------------------------ |
 | redeecash-interest | 1.1.2   | nodejs    | c7d32707-eb1e-599d-9a82-35ffade24a6a |
+|forexgeneral-trader|1.1.2|nodejs|d7ca9e19-f103-50a8-96b9-7d909997b910|
