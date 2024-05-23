@@ -10,3 +10,4 @@ The following table for reference purposes ONLY.
 | ------------------ | ------- | --------- | ------------------------------------ |
 | redeecash-interest | 1.1.2   | nodejs    | c7d32707-eb1e-599d-9a82-35ffade24a6a |
 |forexgeneral-trader|1.1.2|nodejs|d7ca9e19-f103-50a8-96b9-7d909997b910|
+|officesupplymanagement|1.0.2|nodejs|21648453-74a1-5e5e-b198-f46c69f2247d|
